@@ -1,0 +1,20 @@
+.whole{
+    background-color: rgb(7, 26, 26);
+    height: 250px;
+    width:400px;
+    /* text-align: center; */
+    margin-top: 130px;
+    padding-top: 40px;
+    border-radius: 80px;
+
+}
+.btn
+{
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.wholes.disable
+{
+    opacity: 0.6;
+    pointer-events: none;
+}
